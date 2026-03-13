@@ -1,0 +1,58 @@
+date;pays;domaine;titre;description;
+;;;;;
+04/09/1870;France;Legal;Proclamation de la Troisieme Republique;Changement de regime apres la chute du Second Empire;
+11/11/1918;France;Social;Fin de la Premiere Guerre mondiale;Reconstruction economique et sociale massive;
+27/10/1946;France;Legal;Adoption de la Constitution de la Quatrieme Republique;Reorganisation institutionnelle apres la guerre;
+04/10/1958;France;Legal;Creation de la Cinquieme Republique;Nouveau regime politique et stabilisation institutionnelle;
+22/05/1968;France;Social;Crise de Mai 68;Mouvement social majeur et transformation culturelle;
+10/05/1981;France;Politique;Election de Francois Mitterrand;Alternance politique et nouvelles politiques economiques;
+01/01/1999;France;Economique;Adoption de l euro;Integration monetaire europeenne;
+15/09/2008;France;Economique;Crise financiere mondiale;Impact economique et intervention de l Etat;
+01/01/2015;France;Environnement;Loi transition energetique;Politique de reduction des emissions de CO2;
+17/03/2020;France;Social;Confinement national COVID-19;Impact economique et reduction temporaire des emissions;
+;;;;;
+29/10/1929;Etats-Unis;Economique;Krach boursier de Wall Street;Debut de la Grande Depression mondiale;
+07/12/1941;Etats-Unis;Social;Attaque de Pearl Harbor;Entree des Etats-Unis dans la Seconde Guerre mondiale;
+22/07/1944;Etats-Unis;Economique;Accords de Bretton Woods;Creation du systeme financier international;
+20/07/1969;Etats-Unis;Technologique;Mission Apollo 11;Avancee technologique majeure;
+15/08/1971;Etats-Unis;Economique;Fin convertibilite or du dollar;Transformation du systeme monetaire mondial;
+11/09/2001;Etats-Unis;Social;Attentats du 11 septembre;Impact geopolitique et securitaire mondial;
+15/09/2008;Etats-Unis;Economique;Faillite de Lehman Brothers;Crise financiere mondiale;
+12/12/2015;Etats-Unis;Environnement;Accord de Paris climat;Engagement international pour reduction CO2;
+13/03/2020;Etats-Unis;Social;Urgence nationale COVID-19;Impact economique et social majeur;
+;;;;;
+18/01/1871;Allemagne;Politique;Proclamation de l Empire allemand;Unification allemande;
+11/11/1918;Allemagne;Politique;Fin Empire et Republique de Weimar;Changement de regime politique;
+30/01/1933;Allemagne;Politique;Arrivee au pouvoir de Hitler;Transformation du regime politique;
+08/05/1945;Allemagne;Politique;Fin Seconde Guerre mondiale;Division du pays et reconstruction;
+23/05/1949;Allemagne;Legal;Creation Republique federale Allemagne;Nouveau systeme politique;
+09/11/1989;Allemagne;Social;Chute du mur de Berlin;Reunification et transformation economique;
+03/10/1990;Allemagne;Politique;Reunification allemande;Integration economique et politique;
+01/01/1999;Allemagne;Economique;Adoption euro;Integration economique europeenne;
+15/09/2008;Allemagne;Economique;Crise financiere mondiale;Impact industriel et bancaire;
+14/07/2021;Allemagne;Naturel;Inondations majeures;Impact environnemental et economique;
+;;;;;
+03/11/1946;Japon;Legal;Constitution pacifiste;Nouveau cadre politique apres guerre;
+01/05/1955;Japon;Politique;Systeme politique dominant PLD;Stabilite politique et croissance economique;
+22/09/1985;Japon;Economique;Accords du Plaza;Appreciation du yen et transformation economique;
+01/01/1991;Japon;Economique;Eclatement bulle financiere;Longue stagnation economique;
+11/03/2011;Japon;Naturel;Seisme et tsunami Fukushima;Catastrophe nucleaire et impact energetique;
+01/04/2014;Japon;Economique;Reforme fiscale TVA;Impact consommation et croissance;
+01/05/2019;Japon;Social;Abdication empereur Akihito;Transition symbolique institutionnelle;
+07/09/2021;Japon;Energie;Strategie neutralite carbone 2050;Politique climatique nationale;
+;;;;;
+07/11/1917;Russie;Politique;Revolution bolchevique;Creation Etat sovietique;
+30/12/1922;Russie;Politique;Creation URSS;Union politique et economique;
+22/06/1941;Russie;Social;Operation Barbarossa;Impact massif Seconde Guerre mondiale;
+05/03/1953;Russie;Politique;Mort de Staline;Transformation systeme politique;
+26/04/1986;Russie;Naturel;Catastrophe Tchernobyl;Impact environnemental nucleaire majeur;
+25/12/1991;Russie;Politique;Dissolution URSS;Creation Federation Russie;
+17/08/1998;Russie;Economique;Crise financiere russe;Effondrement financier et reformes;
+08/08/2008;Russie;Politique;Guerre Georgie;Tensions geopolitique;
+18/03/2014;Russie;Politique;Annexion Crimee;Sanctions economiques internationales;
+24/02/2022;Russie;Politique;Guerre Ukraine;Impact economique mondial et energetique;
+;;;;;"sources : World Bank
+                Our World in Data
+                United Nations Data
+               nternational Energy Agency
+"
